@@ -259,6 +259,7 @@ form textarea {
     line-height: 2.5em;
     font-size: 1.2em;
     margin-bottom: 20px;
+    resize: none;
 }
 
 form input,
